@@ -1,4 +1,9 @@
 {
-  "index": "./instrument.tsx",
-  "isInteractive": false
+  "index": "./index.tsx",
+  "isInteractive": false,
+  "name": "ND",
+  "dimensions": {
+    "width": 768,
+    "height": 768
+  }
 }

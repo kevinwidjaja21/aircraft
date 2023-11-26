@@ -1,4 +1,11 @@
 {
-  "index": "./instrument.tsx",
-  "isInteractive": false
+  "index": "./index.tsx",
+  "isInteractive": false,
+  "name": "EWD",
+  "dimensions": {
+    "px": {
+      "width": 768,
+      "height": 768
+    }
+  }
 }

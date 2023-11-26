@@ -1,4 +1,11 @@
 {
   "index": "./index.tsx",
-  "isInteractive": false
+  "isInteractive": false,
+  "name": "ATC",
+  "dimensions": {
+    "px": {
+      "width": 338,
+      "height": 128
+    }
+  }
 }

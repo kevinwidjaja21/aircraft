@@ -1,4 +1,11 @@
 {
-  "index": "./instrument.tsx",
-  "isInteractive": false
+  "index": "./index.tsx",
+  "isInteractive": false,
+  "name": "Clock",
+  "dimensions": {
+    "px": {
+      "width": 256,
+      "height": 256
+    }
+  }
 }

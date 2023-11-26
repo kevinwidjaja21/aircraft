@@ -1,4 +1,11 @@
 {
   "index": "./index.tsx",
-  "isInteractive": false
+  "isInteractive": false,
+  "name": "DCDU",
+  "dimensions": {
+    "px": {
+      "width": 4096,
+      "height": 3072
+    }
+  }
 }

@@ -1,0 +1,9 @@
+{
+  "name": "A32NX_v3",
+  "paths": {
+    "instruments": "D:\\MSFS_project\\aircraft-fbw\\fbw-a32nx\\src\\systems\\instruments",
+    "bundles": "D:\\MSFS_project\\aircraft-fbw\\fbw-a32nx\\bundles",
+    "html_ui": "D:\\MSFS_project\\aircraft-fbw\\fbw-a32nx\\out\\flybywire-aircraft-a320-neo\\html_ui"
+  },
+  "elements": []
+}

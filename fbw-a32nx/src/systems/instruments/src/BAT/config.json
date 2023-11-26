@@ -1,6 +1,7 @@
 {
   "index": "./index.tsx",
   "isInteractive": false,
+  "name": "BAT",
   "dimensions": {
     "px": {
       "width": 256,
