@@ -3,9 +3,7 @@
   "isInteractive": false,
   "name": "EWD",
   "dimensions": {
-    "px": {
-      "width": 768,
-      "height": 768
-    }
+    "width": 1480,
+    "height": 1110
   }
 }

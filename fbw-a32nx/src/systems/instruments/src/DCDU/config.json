@@ -3,9 +3,7 @@
   "isInteractive": false,
   "name": "DCDU",
   "dimensions": {
-    "px": {
-      "width": 4096,
-      "height": 3072
-    }
+    "width": 1480,
+    "height": 1110
   }
 }

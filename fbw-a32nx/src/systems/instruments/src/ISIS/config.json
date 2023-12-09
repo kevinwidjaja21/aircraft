@@ -3,9 +3,7 @@
   "isInteractive": false,
   "name": "ISIS",
   "dimensions": {
-    "px": {
-      "width": 512,
-      "height": 512
-    }
+    "width": 1480,
+    "height": 1110
   }
 }
